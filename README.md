@@ -11,18 +11,19 @@
 У Вас должны быть установлены соответствующие ПО: Visual Studio Code и Python (версия 3.11)
 
 ### Процесс установки
-1. Скачать проект с данного репозитория  
+1. Скачать проект с данного репозитория.  
 
-2. Запустить проект с помощью Visual Studio Code
+2. Запустить проект с помощью Visual Studio Code.
 
 3. Создать виртуальное окружение:
 
-```python3 -m venv venv```
+```python -m venv venv```.
 
 4. Активировать виртуальное окружение:
 
-```source venv/bin/activate```
+```source venv/bin/activate```.
 
-5. Установка зависимостей
+5. Установить зависимости:
 
-```pip3 install -r requirements.txt```
+```pip install dash```,
+```pip install pandas```.
