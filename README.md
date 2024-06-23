@@ -35,4 +35,7 @@
 ```pip install dash-mantine-components```,
 ```pip install pandas```,
 ```pip install numpy```,
-```pip install plotly```
+```pip install plotly```.
+
+### Запуск проекта
+Для того, чтобы запустить проект, необходимо запустить файл app.py в Visual Studio Code и перейти по ссылке, которая отобразится в терминале.
