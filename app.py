@@ -61,7 +61,7 @@ def render_page_content(pathname):
         return charts.layout
     elif pathname == "/page-2":
         return diagrams.layout
-    elif pathname == '/page3':
+    elif pathname == "/page-3":
         return weathernow.layout
     else:
         return about.layout
