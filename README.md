@@ -8,7 +8,7 @@
 [Ссылка на вебсайт с проектом](http://yakushenko.pythonanywhere.com/)
 
 ### Требуемое ПО
-У Вас должны быть установлены соответствующие ПО: Visual Studio Code и Python (версия 3.11)
+У Вас должны быть установлены соответствующие ПО: Visual Studio Code и Python (версия 3.11).
 
 ### Процесс установки
 1. Скачать проект с данного репозитория.  
@@ -26,4 +26,8 @@
 5. Установить зависимости:
 
 ```pip install dash```,
-```pip install pandas```.
+```pip install dash-bootstrap-components```,
+```pip install dash-mantine-components```,
+```pip install pandas```,
+```pip install numpy```,
+```pip install plotly```
